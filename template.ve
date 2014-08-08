@@ -1,0 +1,10 @@
+5				%%% Number of Variables. Ex: A,B,C,D,E
+2 4 8 3 2		%%% Variable's cardinality
+5				%%% Number of CPTs
+2 0 3			%%% CPT with 2 variable and their respective indexes. Ex: P(A|D)
+3 1 0 3			%%% Ex: P(B|A,D)
+3 2 1 3			%%% Ex: P(C|B,D)
+1 3				%%% Ex: P(D)
+2 4 0			%%% Ex: P(E|A)
+1				%%% Number of elimination orderings
+0 3 1			%%% Eliminating A, D, B
