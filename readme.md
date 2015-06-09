@@ -1,4 +1,4 @@
-Simple Variable Elimination
+(Discontinued) Simple Variable Elimination
 ===========================
 
 A simple implementation of the algorithm [Variable Elimination (VE)](http://en.wikipedia.org/wiki/Variable_elimination) in [Bayesian networks](http://en.wikipedia.org/wiki/Bayesian_network).
